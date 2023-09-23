@@ -67,5 +67,8 @@ app.listen(PORT, () => {
 place the json file at its location downloaded from firebase give  Firebase project URL as written in code 
 
 ###Backend is fine now
+``` npm run build                  //use to deploy script added in package.json
+
+
 ##frontend 
 just replace the url with you backend 
