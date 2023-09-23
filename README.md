@@ -62,3 +62,10 @@ app.listen(PORT, () => {
   console.log(`Server is running on port ${PORT}`);
 });
 ```
+
+
+place the json file at its location downloaded from firebase give  Firebase project URL as write in code 
+
+###Backend is fine now
+##frontend 
+just replace the url with you backend 
