@@ -1,6 +1,6 @@
 # Getlocation
 
-## tools use
+### tools use
 Firebase 
 node.js express.js
 react.js
@@ -12,7 +12,7 @@ ther is 2 folder
 2.react - frontend
 
 
-first setup the firebase admin 
+## first setup the firebase admin 
 Install the Firebase Admin SDK:
 
 bash
