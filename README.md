@@ -64,7 +64,7 @@ app.listen(PORT, () => {
 ```
 
 
-place the json file at its location downloaded from firebase give  Firebase project URL as write in code 
+place the json file at its location downloaded from firebase give  Firebase project URL as written in code 
 
 ###Backend is fine now
 ##frontend 
